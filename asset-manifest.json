@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc02e792.css",
+    "main.js": "/static/js/main.da69d3a4.js",
+    "static/media/paper.png": "/static/media/paper.2f92b20f5c1f145334db.png",
+    "static/media/scissor.png": "/static/media/scissor.8519e45bbe906afc25f3.png",
+    "static/media/scissor_left.png": "/static/media/scissor_left.673b34de52216615b311.png",
+    "static/media/rock.png": "/static/media/rock.26708f9b1af80f422f27.png",
+    "index.html": "/index.html",
+    "main.fc02e792.css.map": "/static/css/main.fc02e792.css.map",
+    "main.da69d3a4.js.map": "/static/js/main.da69d3a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc02e792.css",
+    "static/js/main.da69d3a4.js"
+  ]
+}
